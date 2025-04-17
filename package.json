@@ -10,7 +10,7 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "fix": "scho 123"
+    "fix": "s 123"
 
   },
   "commitlint": {
